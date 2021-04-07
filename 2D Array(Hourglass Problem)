@@ -8,7 +8,7 @@ import sys
 
 # Complete the hourglassSum function below.
 def hourglassSum(a):
-    s=0
+    s=-100
     for i in range(0,4):
         for j in range(0,4):
             t=0
