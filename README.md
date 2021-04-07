@@ -1,3 +1,3 @@
-# Hackerrank_DataStructures
+# Hackerrank DataStructures Solutions
 List of Codes
 1. Reversing an array
