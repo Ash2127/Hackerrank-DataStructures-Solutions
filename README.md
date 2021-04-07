@@ -1,3 +1,3 @@
 # Hackerrank_DataStructures
 List of Codes
-1. Reversing the string
+1. Reversing an array
